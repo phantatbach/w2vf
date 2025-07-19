@@ -1,3 +1,5 @@
+dep_w2v/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
